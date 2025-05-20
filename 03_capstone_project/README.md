@@ -4,6 +4,9 @@
 
 This is a simple Library Management System built for educational purposes using Next.js (App Router), React, Tailwind CSS, and MongoDB. The code is beginner-friendly and well-commented in English.
 
+Short presentation video that showcases how the project works:
+
+https://github.com/user-attachments/assets/220a2837-9ed4-4aeb-b1fb-48fd54e2bc62
 
 ---
 
